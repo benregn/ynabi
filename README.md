@@ -50,13 +50,13 @@ in YNAB after import.
 Lige categories, you need to add accounts to YNAB with the exact same names as in
 Spiir.
 
-### Install requirements
+### Install
 
-1. `pip install -r requirements.txt`
+1. `poetry install`
 
-### Run ynabi
+### Run
 
-1. `python ynabi.py`
+1. `poetry run python ynabi`
 
 ## Troubleshooting
 
